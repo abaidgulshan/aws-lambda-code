@@ -9,6 +9,7 @@ launchTemplateName = os.environ['Launch_Template_Name']
 ec2RoleARN = os.environ['EC2_Role_ARN']
 keyName = os.environ['Private_Key_Name']
 ec2SecurityGroupID = os.environ['EC2_Security_Group_ID']
+instancetype = os.environ['InstanceType']
 
 def lambda_handler(event, context):
     
@@ -42,6 +43,7 @@ def lambda_handler(event, context):
                     'Arn': ec2RoleARN
                 },
                 'ImageId': image['ImageId'],
+                'InstanceType': instancetype,
                 'KeyName': keyName,
                 'SecurityGroupIds': [
                     ec2SecurityGroupID,

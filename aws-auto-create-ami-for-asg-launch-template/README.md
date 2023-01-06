@@ -13,6 +13,7 @@ To use it on a Lambda function you will need to set the timeout to 5 seconds and
 |EC2_Security_Group_ID|Security Group's ID for the EC2 instances|
 |Launch_Template_Name|Name of the Launch Tamplate that is used by the Auto Scailing group|
 |Private_Key_Name|Name of the Private Key used to acess your EC2 instances|
+|InstanceType|Name of Instance type |
 
 
 ## License
