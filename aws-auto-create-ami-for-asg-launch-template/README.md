@@ -9,7 +9,7 @@ To use it on a Lambda function you will need to set the timeout to 5 seconds and
 |Name|Stands For|
 |----|-----|
 |Auto_Scaling_Group_Name|Name of the Auto Scaling group that is going to be updated|
-|EC2_Role_ARN|Instance Profile ARN of the IAM Role for the EC2|
+|EC2_Role_ARN|Instance Profile ARN not IAM ROLE ARN for the EC2|
 |EC2_Security_Group_ID|Security Group's ID for the EC2 instances|
 |Launch_Template_Name|Name of the Launch Tamplate that is used by the Auto Scailing group|
 |Private_Key_Name|Name of the Private Key used to acess your EC2 instances|
