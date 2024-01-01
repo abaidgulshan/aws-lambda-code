@@ -2,6 +2,18 @@
 
 Welcome to the AWS Lambda Code Repository! This repository contains code for AWS Lambda functions that perform various tasks. You can explore the code and use it as a reference or as a starting point for your own Lambda functions.
 
+Table of Contents
+=================
+
+   * [Getting Started](#getting-started)
+   * [aws lambda auto create ami for asg launch template](https://github.com/abaidgulshan/aws-lambda-code/tree/master/aws-lambda-auto-create-ami-for-asg-launch-template)
+   * [aws lambda request curl example](https://github.com/abaidgulshan/aws-lambda-code/tree/master/aws-lambda-request-curl-example)
+   * [aws lambda ses test email](https://github.com/abaidgulshan/aws-lambda-code/tree/master/aws-lambda-ses-test-email)
+   * [Function Descriptions](#function-descriptions)
+   * [Contributing](#contributing)
+   * [License](#license)
+   * [Contact](#contact)
+
 ## Getting Started
 
 To get started with this repository, you'll need an AWS account and the AWS Lambda service. You can deploy these Lambda functions by following these steps:
