@@ -7,9 +7,9 @@ Table of Contents
 
    * [Getting Started](#getting-started)
    * [Example](#example)
-    * [aws lambda auto create ami for asg launch template](https://github.com/abaidgulshan/aws-lambda-code/tree/master/aws-lambda-auto-create-ami-for-asg-launch-template)
-    * [aws lambda request curl example](https://github.com/abaidgulshan/aws-lambda-code/tree/master/aws-lambda-request-curl-example)
-    * [aws lambda ses test email](https://github.com/abaidgulshan/aws-lambda-code/tree/master/aws-lambda-ses-test-email)
+      * [aws lambda auto create ami for asg launch template](https://github.com/abaidgulshan/aws-lambda-code/tree/master/aws-lambda-auto-create-ami-for-asg-launch-template)
+      * [aws lambda request curl example](https://github.com/abaidgulshan/aws-lambda-code/tree/master/aws-lambda-request-curl-example)
+      * [aws lambda ses test email](https://github.com/abaidgulshan/aws-lambda-code/tree/master/aws-lambda-ses-test-email)
    * [Function Descriptions](#function-descriptions)
    * [Contributing](#contributing)
    * [License](#license)
